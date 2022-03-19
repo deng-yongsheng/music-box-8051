@@ -3,6 +3,6 @@ Objects/
 
 *.uvopt
 *.uvgui*
-.uvproj
+*.uvproj
 
 !*.hex
