@@ -1,4 +1,8 @@
 Listings/
 Objects/
+
 *.uvopt
 *.uvgui*
+.uvproj
+
+!*.hex
